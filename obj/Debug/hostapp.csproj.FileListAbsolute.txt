@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\hostapp\hostapp\bin\hostapp.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\hostapp\hostapp\bin\hostapp.dll
+c:\users\admin\documents\visual studio 2013\Projects\hostapp\hostapp\bin\hostapp.pdb
+c:\users\admin\documents\visual studio 2013\Projects\hostapp\hostapp\obj\Debug\hostapp.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\hostapp\hostapp\obj\Debug\hostapp.dll
+c:\users\admin\documents\visual studio 2013\Projects\hostapp\hostapp\obj\Debug\hostapp.pdb
